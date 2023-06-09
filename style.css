@@ -1,0 +1,57 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6rem;
+  font-family: "Poppins", sans-serif;
+  line-height: 1.5;
+  display: flex;
+  justify-content: center;
+  padding-top: 5rem;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+}
+
+.container-start h3 {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.start-img {
+  width: 100%;
+  height: auto;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 0.5rem;
+  font-size: 3.6rem;
+}
+
+.start-form {
+  display: flex;
+  justify-content: center;
+  gap: 0.8rem;
+}
+
+.start-form input[type="text"] {
+  font-family: inherit;
+  padding: 0.3rem 1.2rem;
+  outline: none;
+}
+
+.start-form input[type="submit"] {
+  padding: 0.3rem 1rem;
+  font-family: inherit;
+  cursor: pointer;
+}

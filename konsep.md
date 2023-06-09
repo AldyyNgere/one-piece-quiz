@@ -37,11 +37,11 @@
 - cevendish
 - caribou
 
-6. siapakah nama tokoh dibawah ini (killer) \*
+6. siapakah nama tokoh dibawah ini (reyleighy) \*
 
 - sanji
-- reyleight
-- killer ~
+- reyleight ~
+- killer
 - sabo
 
 7. Siapa nama professor yang mengajari Chopper?
